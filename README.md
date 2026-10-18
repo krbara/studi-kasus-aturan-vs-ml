@@ -22,10 +22,9 @@ Lalu keduanya diaudit: dari pemohon yang **sebenarnya layak** membayar, berapa p
 
 ```bash
 pip install -r requirements.txt
-python aturan_vs_ml.py      # latih, evaluasi, bangun docs/index.html
+python aturan_vs_ml.py     
 ```
-
-Buka `docs/index.html` lewat Live Server (VS Code) atau GitHub Pages (**Settings → Pages → main, /docs**).
+link index.html https://krbara.github.io/studi-kasus-aturan-vs-ml/
 
 ## Hasil contoh (dengan seed bawaan)
 
